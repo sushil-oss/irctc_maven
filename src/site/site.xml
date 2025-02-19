@@ -51,7 +51,7 @@
       <item name="Markdown with Velocity Example" href="markdown-velocity.html"/>
     </menu>
 
-    <menu name="Examples">
+    <menu name="Example">
       <item name="Alternate Location for the changes.xml File" href="examples/alternate-changes-xml-location.html"/>
       <item name="SMTP Authentication" href="examples/smtp-authentication.html"/>
     </menu>
